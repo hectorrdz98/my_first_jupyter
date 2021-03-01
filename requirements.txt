@@ -55,9 +55,11 @@ nbformat==5.1.2
 nest-asyncio==1.5.1
 netifaces==0.10.4
 notebook==6.2.0
+numpy==1.19.5
 oauthlib==2.0.6
 packaging==20.9
 PAM==0.4.2
+pandas==1.1.5
 pandocfilters==1.4.3
 parso==0.8.1
 pexpect==4.8.0
@@ -78,6 +80,7 @@ pyserial==3.4
 python-apt==1.6.5+ubuntu0.5
 python-dateutil==2.8.1
 python-debian==0.1.32
+pytz==2021.1
 pyxdg==0.25
 PyYAML==3.12
 pyzmq==22.0.2
